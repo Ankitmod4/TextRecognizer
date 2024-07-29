@@ -31,7 +31,7 @@ body {
     color: #aaa;
   }
   
-  button {
+   #btn{
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -41,7 +41,7 @@ body {
     cursor: pointer;
   }
   
-  button:hover {
+  #btn:hover {
     background-color: #0056b3;
   }
   
